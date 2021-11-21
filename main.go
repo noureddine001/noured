@@ -1,1 +1,2 @@
-func tot(){]
+package main 
+func main(){]
